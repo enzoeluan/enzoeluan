@@ -6,8 +6,7 @@
 
 <div> 
  
-  <a href="https://www.instagram.com/enzoeluan/" target="_blank" rel="external"><img src="https://icons.iconarchive.com/icons/designbolts/cute-social-2014/128/Instagram-icon.png" width="40" height="40">
-</a>
+  <a href="https://www.instagram.com/enzoeluan/" target="_blank" rel="external"><img src="https://icons.iconarchive.com/icons/designbolts/free-instagram/32/Active-Instagram-4-icon.png" width="32" height="32"></a>
   <a href="https://www.linkedin.com/in/enzo-eluan" target="_blank"><img src="https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png" width="30" height="30"></a> 
 
 
