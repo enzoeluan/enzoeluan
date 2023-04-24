@@ -4,3 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoeluan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoeluan&theme=radical)](https://github.com/enzoeluan/github-readme-stats)
 
+<a href"https://www.linkedin.com/in/enzo-eluan-98699b214/" target="_blank" rel="external">
+  <img src="https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png" width="128" height="128">
+  </a>
+  
