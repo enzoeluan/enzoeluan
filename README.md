@@ -2,7 +2,7 @@
  
 <h2>Sobre mim</h2>
  
-<h4>Eu sou aluno de Ciência da Computação no CESUPA, atualmente no sétimo semestre, tenho um apego maior na tecnologia no setor do desenvolvimento Front-end, utilizando Javascript, HTML, CSS e React para os meus estudos e projetos. Outra área que eu me interesso e estudo é a de inteligência Artificial, mais específico na subárea de Machine Learning.</h4>
+<h4>Eu sou formado em Ciência da Computação no CESUPA, tenho um apego maior na tecnologia no setor do desenvolvimento Front-end, utilizando Javascript, HTML, CSS e React para os meus estudos e projetos. Outra área que eu me interesso e estudo é a de inteligência Artificial, mais específico na subárea de Machine Learning.</h4>
 
 <h2>Minhas estatísticas do Github</h2>
  
