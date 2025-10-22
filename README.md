@@ -2,7 +2,7 @@
  
 <h2>Sobre mim</h2>
  
-<h4>Eu sou formado em Ciência da Computação no CESUPA, tenho um apego maior na tecnologia no setor do desenvolvimento Front-end, utilizando tecnologias como Javascript, Typescript, React e tailwind. Outra área que eu me interesso e estudo é a de inteligência Artificial, mais específico na subárea de Machine Learning.</h4>
+<h4>Eu sou formado em Ciência da Computação no CESUPA, tenho um apego maior na tecnologia no setor do desenvolvimento Front-end, utilizando tecnologias como Javascript, Typescript, React e Tailwind. Outra área que eu me interesso e estudo é a de inteligência Artificial, mais específico na subárea de Machine Learning.</h4>
 
 <h2>Minhas estatísticas do Github</h2>
  
