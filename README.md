@@ -4,11 +4,6 @@
  
 <h4>Eu sou formado em Ciência da Computação no CESUPA, tenho um apego maior na área de desenvolvimento Front-end. Outra área que eu me interesso e estudo é a de inteligência Artificial.</h4>
 
-<h2>Minhas estatísticas do Github</h2>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoeluan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoeluan&theme=radical)](https://github.com/enzoeluan/github-readme-stats)
-
 <h2>Tecnologias mais utilizadas</h2>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
